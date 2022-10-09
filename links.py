@@ -1,0 +1,5 @@
+MAIN_LINK = 'https://stellarburgers.nomoreparties.site/'
+REGISTER_LINK = 'https://stellarburgers.nomoreparties.site/register'
+LOGIN_LINK = 'https://stellarburgers.nomoreparties.site/login'
+FORGOT_PASSWORD_LINK = 'https://stellarburgers.nomoreparties.site/forgot-password'
+PERSONAL_ACCOUNT_LINK = 'https://stellarburgers.nomoreparties.site/account/profile'
